@@ -23,7 +23,6 @@ import com.rohitdeveloper.service.solrsearch.SolrSearch;
 @Path("/search")
 public class SearchService {
       
-	 
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response getSolrDocumentJSON(@QueryParam("query") String searchQuery,@Context UriInfo uriInfo) {

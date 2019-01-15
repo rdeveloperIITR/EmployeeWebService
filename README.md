@@ -1,5 +1,5 @@
 # EmployeeWebService
-RestfulWeb Service for Dasboard repository (https://github.com/rdeveloperIITR/Dashboard) which can be consumed by using Employee API (REST API) created by using Jersey web service framework.
+RestfulWeb Service for Dasboard repository (https://github.com/rohitsroch/Dashboard) which can be consumed by using Employee API (REST API) created by using Jersey web service framework.
 
 ### Employee API
 * Get Employee List from mysql database
